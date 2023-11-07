@@ -1,4 +1,4 @@
-# Template for Reporting Issues
+htftfrtrf# Template for Reporting Issues
 
 Use the following template to report issues in the Sui GitHub repo:
 
